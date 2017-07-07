@@ -52,7 +52,6 @@
                     android:id="@+id/tv_movie_year"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    tools:text="2017"
                     android:gravity="center_vertical"
                     android:textSize="22sp"/>
 
@@ -61,7 +60,6 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:gravity="center_vertical"
-                    tools:text="120 minutes"
                     android:textSize="22sp"
                     android:textStyle="italic"/>
 
@@ -70,7 +68,6 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:gravity="center_vertical"
-                    tools:text="8.1/10"
                     android:textColor="@android:color/black"
                     android:textSize="14sp"/>
             </LinearLayout>
